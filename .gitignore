@@ -1,0 +1,8 @@
+/.vs/WingtipToys/v16/*.suo
+/packages
+/WingtipToys/Publish
+/WingtipToys/bin
+/WingtipToys/obj
+/WingtipToys/App_Data
+/.vs/WingtipToys/config
+sqlite3
